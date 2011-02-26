@@ -1,0 +1,9 @@
+obj/
+lib/
+*.log
+*.o
+*.so
+.project
+.cproject
+.csettings
+
